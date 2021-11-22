@@ -2,19 +2,6 @@
 <settings xmlns="http://maven.apache.org/SETTINGS/1.1.0"
   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   xsi:schemaLocation="http://maven.apache.org/SETTINGS/1.1.0 http://maven.apache.org/xsd/settings-1.1.0.xsd">
-
-<proxies>
-   <proxy>
-      <id>bhanu-test-central</id>
-      <active>true</active>
-      <protocol>http</protocol>
-      <host>18.218.197.119/</host>
-      <port>8081</port>
-      <username>deploy</username>
-      <password>deploy123</password>
-    </proxy>
-  </proxies>
-
   <servers>
     <server>
       <id>bhanu-test</id>
