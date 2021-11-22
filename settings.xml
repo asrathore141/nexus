@@ -7,13 +7,11 @@
       <id>bhanu-test</id>
       <username>deploy</username>
       <password>deploy123</password> 
-     <privateKey>C:\Users\Rathore\Desktop/test123.ppk</privateKey> 
     </server>
     <server>
       <id>bhanu-test</id>
       <username>deploy</username>
-      <password>deploy123</password> 
-   <privateKey>C:\Users\Rathore\Desktop/test123.ppk</privateKey>     
+      <password>deploy123</password>    
    </server>
   </servers>
 
