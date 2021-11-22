@@ -42,12 +42,12 @@
     <repository>
         <id>sym</id>
         <name>release softx</name>
-        <url>http://18.118.121.105:8081/repository/bhanu-test-release/</url>
+        <url>http://3.16.51.56:8081/repository/bhanu-test-release/</url>
     </repository>
     <snapshotRepository>
         <id>sym</id>
         <name>snapshot softx</name>
-        <url>http://18.118.121.105:8081/repository/bhanu-test-snapshot/</url>
+        <url>http://3.16.51.56:8081/repository/bhanu-test-snapshot/</url>
     </snapshotRepository>
 </distributionManagement>
 
